@@ -7,7 +7,11 @@ public class md {
         System.out.println("Hello");
     }
 
-    public static void me(){
+    public static void addedThisMethodByOther(){
+
+    }
+
+     public static void me(){
 
     }
 }
