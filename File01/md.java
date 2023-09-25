@@ -6,4 +6,8 @@ public class md {
 
         System.out.println("Hello");
     }
+
+    public static void me(){
+
+    }
 }
