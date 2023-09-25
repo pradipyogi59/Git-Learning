@@ -14,4 +14,7 @@ public class md {
      public static void me(){
 
     }
+     public static void me2(){
+
+    }
 }
